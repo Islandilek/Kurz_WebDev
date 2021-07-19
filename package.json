@@ -1,0 +1,22 @@
+{
+  "name": "kurz_webdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Islandilek/Kurz_WebDev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Islandilek/Kurz_WebDev/issues"
+  },
+  "homepage": "https://github.com/Islandilek/Kurz_WebDev#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
